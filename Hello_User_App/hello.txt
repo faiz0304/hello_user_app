@@ -1,0 +1,47 @@
+Program Run (Terminal Example)
+------------------------------
+Enter Your Good Name: John Doe
+Enter Your Age: 23
+Enter Your City: Karachi
+Enter Your Country: Pakistan
+Enter Your Qualification: BS in Computer Science
+Enter Your Favorite Color: Blue
+Enter Your Hobbies: Reading, Coding, Gaming
+Enter Your Favorite Foods: Pizza, Biryani
+Enter Your Future Dream: Machine Learning Engineer
+-------------------------------
+===============================
+Terminal Output with Colors
+---------------------------
+Hello! Everyone
+My Name is John Doe.                 # Printed in BLUE
+I am 23 years old.
+Next Year I will be 24.              # Printed in CYAN
+I live in Karachi, Pakistan.
+I have done BS in Computer Science.  # Printed in GREEN
+My favorite color is Blue.
+I spend my daily times in Reading, Coding, Gaming.
+I love Pizza, Biryani.
+I want to become Machine Learning Engineer.   # Printed in MAGENTA
+Thanks for everyone and I will see you next time.
+---------------------------
+==============================
+Extra Line if Saved
+-----------------------------
+Do you want to save file? Type Yes or No: Yes
+----------------------------------------
+Hello! Everyone
+My Name is John Doe.
+I am 23 years old.
+Next Year I will be 24.
+I live in Karachi, Pakistan.
+I have done BS in Computer Science.
+My favorite color is Blue.
+I spend my daily times in Reading, Coding, Gaming.
+I love Pizza, Biryani.
+I want to become Machine Learning Engineer.
+Thanks for everyone and I will see you next time.
+
+This file was created on 2025-10-01 00:25:13
+----------------------------------------
+
